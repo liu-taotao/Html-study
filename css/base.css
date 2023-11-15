@@ -369,10 +369,10 @@
    font: 14px ;
    border-right: .08em solid;
    /* 个数*2ch */
-   width: 28ch; 
+   width: 26ch; 
    white-space: nowrap;
    overflow: hidden;
-   animation: typing 3s steps(28,end), blink-caret .3s step-end infinite alternate;
+   animation: typing 3s steps(26,end), blink-caret .3s step-end infinite alternate;
  }
  
  
